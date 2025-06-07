@@ -3,7 +3,7 @@
 I'm currently studying about NoSQL Databases. | Estou atualmente estudando bancos de dados NoSQL.
 
 <details>
-<summary>⚡️ More about my journey | Mais sobre minha jornada: </summary>
+<summary>☁️ More about my journey | Mais sobre minha jornada: ☁️</summary>
 <br />
 
 ![mjovem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjovem&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
