@@ -6,9 +6,9 @@ I'm currently studying about NoSQL Databases.
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjovem&layout=compact&hide=css,html)
 
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=zheeeng&count_private=true&show_icons=true&theme=onedark)
+![mjovem's github stats](https://github-readme-stats.vercel.app/api?username=mjovem&count_private=true&show_icons=true&theme=onedark)
 
 <h3>Skills:</h3>
 <p align="left" dir="auto">
