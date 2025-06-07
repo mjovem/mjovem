@@ -9,7 +9,7 @@ I'm currently studying about NoSQL Databases. | Estou atualmente estudando banco
 ![mjovem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjovem&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 ![mjovem's Stats](https://github-readme-stats.vercel.app/api?username=mjovem&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-
+</details>
 <h3>Skills:</h3>
 <p align="left" dir="auto">
   
